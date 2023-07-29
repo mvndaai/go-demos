@@ -1,13 +1,3 @@
-# go-interface-demo
+# go-demos
 
-Demo of how interfaces should be used in golang
-
-## Notes
-
-### Updating mocks
-
-```bash
-go install -v github.com/golang/mock/gomock
-go install -v github.com/golang/mock/mockgen
-go generate ./...
-```
+Demos of idomatic was of doing things in go(lang)

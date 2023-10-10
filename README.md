@@ -1,3 +1,3 @@
 # go-demos
 
-Demos of idomatic was of doing things in go(lang)
+Demos of idiomatic ways of doing things in go(lang)
